@@ -52,19 +52,6 @@
     "p": 0.983561643835617
   },
   {
-    "word": "abler",
-    "variant": 0,
-    "phonemes": [
-      "EY",
-      "B",
-      "AH",
-      "L",
-      "ER"
-    ],
-    "stress": 0,
-    "p": 0.653658536585366
-  },
-  {
     "word": "abloom",
     "variant": 0,
     "phonemes": [
@@ -351,19 +338,6 @@
     "p": 0.919191919191919
   },
   {
-    "word": "acreage",
-    "variant": 1,
-    "phonemes": [
-      "EY",
-      "K",
-      "R",
-      "IH",
-      "JH"
-    ],
-    "stress": 0,
-    "p": 0.83046683046683
-  },
-  {
     "word": "acrid",
     "variant": 0,
     "phonemes": [
@@ -427,32 +401,6 @@
     ],
     "stress": 0,
     "p": 1
-  },
-  {
-    "word": "actual",
-    "variant": 1,
-    "phonemes": [
-      "AE",
-      "K",
-      "SH",
-      "AH",
-      "L"
-    ],
-    "stress": 0,
-    "p": 0.995359628770301
-  },
-  {
-    "word": "actually",
-    "variant": 1,
-    "phonemes": [
-      "AE",
-      "K",
-      "CH",
-      "L",
-      "IY"
-    ],
-    "stress": 0,
-    "p": 0.995475113122172
   },
   {
     "word": "acute",
@@ -1339,19 +1287,6 @@
     "p": 0.98812351543943
   },
   {
-    "word": "already",
-    "variant": 1,
-    "phonemes": [
-      "AO",
-      "R",
-      "EH",
-      "D",
-      "IY"
-    ],
-    "stress": 2,
-    "p": 0.997481108312343
-  },
-  {
     "word": "alright",
     "variant": 0,
     "phonemes": [
@@ -1885,19 +1820,6 @@
     "p": 0.969047619047619
   },
   {
-    "word": "anxious",
-    "variant": 1,
-    "phonemes": [
-      "AE",
-      "NG",
-      "SH",
-      "AH",
-      "S"
-    ],
-    "stress": 0,
-    "p": 0.989664082687339
-  },
-  {
     "word": "anyhow",
     "variant": 0,
     "phonemes": [
@@ -2338,19 +2260,6 @@
     ],
     "stress": 0,
     "p": 0.985330073349633
-  },
-  {
-    "word": "arctic",
-    "variant": 1,
-    "phonemes": [
-      "AA",
-      "R",
-      "T",
-      "IH",
-      "K"
-    ],
-    "stress": 0,
-    "p": 0.992084432717678
   },
   {
     "word": "argon",
@@ -3274,19 +3183,6 @@
     ],
     "stress": 4,
     "p": 0.736842105263158
-  },
-  {
-    "word": "bachelor",
-    "variant": 1,
-    "phonemes": [
-      "B",
-      "AE",
-      "CH",
-      "L",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.989821882951654
   },
   {
     "word": "backache",
@@ -5603,19 +5499,6 @@
     "p": 0.94579945799458
   },
   {
-    "word": "bluesy",
-    "variant": 0,
-    "phonemes": [
-      "B",
-      "L",
-      "UW",
-      "Z",
-      "IY"
-    ],
-    "stress": 2,
-    "p": 0.749354005167959
-  },
-  {
     "word": "bluffer",
     "variant": 0,
     "phonemes": [
@@ -6225,19 +6108,6 @@
     ],
     "stress": 1,
     "p": 0.939759036144578
-  },
-  {
-    "word": "bowels",
-    "variant": 0,
-    "phonemes": [
-      "B",
-      "AW",
-      "AH",
-      "L",
-      "Z"
-    ],
-    "stress": 1,
-    "p": 0.994490358126722
   },
   {
     "word": "bowline",
@@ -6890,19 +6760,6 @@
     "p": 0.99746835443038
   },
   {
-    "word": "bubbly",
-    "variant": 0,
-    "phonemes": [
-      "B",
-      "AH",
-      "B",
-      "L",
-      "IY"
-    ],
-    "stress": 1,
-    "p": 0.994936708860759
-  },
-  {
     "word": "bucket",
     "variant": 0,
     "phonemes": [
@@ -6942,19 +6799,6 @@
     "p": 0.997448979591836
   },
   {
-    "word": "buckler",
-    "variant": 1,
-    "phonemes": [
-      "B",
-      "AH",
-      "K",
-      "L",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.854922279792746
-  },
-  {
     "word": "budding",
     "variant": 0,
     "phonemes": [
@@ -6979,19 +6823,6 @@
     ],
     "stress": 1,
     "p": 0.997429305912596
-  },
-  {
-    "word": "buffet",
-    "variant": 0,
-    "phonemes": [
-      "B",
-      "AH",
-      "F",
-      "AH",
-      "T"
-    ],
-    "stress": 1,
-    "p": 0.994818652849741
   },
   {
     "word": "buffoon",
@@ -7774,32 +7605,6 @@
     "p": 0.851282051282051
   },
   {
-    "word": "calmer",
-    "variant": 1,
-    "phonemes": [
-      "K",
-      "AA",
-      "L",
-      "M",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.975429975429975
-  },
-  {
-    "word": "calmly",
-    "variant": 0,
-    "phonemes": [
-      "K",
-      "AA",
-      "M",
-      "L",
-      "IY"
-    ],
-    "stress": 1,
-    "p": 0.994987468671679
-  },
-  {
     "word": "camber",
     "variant": 0,
     "phonemes": [
@@ -8526,19 +8331,6 @@
     ],
     "stress": 1,
     "p": 0.906801007556675
-  },
-  {
-    "word": "center",
-    "variant": 0,
-    "phonemes": [
-      "S",
-      "EH",
-      "N",
-      "T",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.991913746630728
   },
   {
     "word": "certain",
@@ -9815,19 +9607,6 @@
     "p": 0.995098039215686
   },
   {
-    "word": "clothes",
-    "variant": 0,
-    "phonemes": [
-      "K",
-      "L",
-      "OW",
-      "DH",
-      "Z"
-    ],
-    "stress": 2,
-    "p": 0.991477272727273
-  },
-  {
     "word": "cloudy",
     "variant": 0,
     "phonemes": [
@@ -10099,19 +9878,6 @@
     ],
     "stress": 3,
     "p": 0.980446927374302
-  },
-  {
-    "word": "cod",
-    "variant": 1,
-    "phonemes": [
-      "S",
-      "IY",
-      "OW",
-      "D",
-      "IY"
-    ],
-    "stress": 1,
-    "p": 0.983333333333333
   },
   {
     "word": "coddle",
@@ -11089,19 +10855,6 @@
     "p": 0.997560975609756
   },
   {
-    "word": "county",
-    "variant": 0,
-    "phonemes": [
-      "K",
-      "AW",
-      "N",
-      "T",
-      "IY"
-    ],
-    "stress": 1,
-    "p": 0.995271867612293
-  },
-  {
     "word": "couple",
     "variant": 0,
     "phonemes": [
@@ -11126,19 +10879,6 @@
     ],
     "stress": 1,
     "p": 0.886010362694301
-  },
-  {
-    "word": "coupon",
-    "variant": 0,
-    "phonemes": [
-      "K",
-      "UW",
-      "P",
-      "AO",
-      "N"
-    ],
-    "stress": 1,
-    "p": 0.997518610421836
   },
   {
     "word": "courser",
@@ -11308,19 +11048,6 @@
     ],
     "stress": 1,
     "p": 0.552995391705069
-  },
-  {
-    "word": "coyote",
-    "variant": 0,
-    "phonemes": [
-      "K",
-      "AY",
-      "OW",
-      "T",
-      "IY"
-    ],
-    "stress": 2,
-    "p": 0.994897959183673
   },
   {
     "word": "cozier",
@@ -11960,19 +11687,6 @@
     "p": 0.8975
   },
   {
-    "word": "cruel",
-    "variant": 0,
-    "phonemes": [
-      "K",
-      "R",
-      "UW",
-      "AH",
-      "L"
-    ],
-    "stress": 2,
-    "p": 1
-  },
-  {
     "word": "cruelly",
     "variant": 0,
     "phonemes": [
@@ -12285,19 +11999,6 @@
     "p": 0.997267759562842
   },
   {
-    "word": "current",
-    "variant": 0,
-    "phonemes": [
-      "K",
-      "ER",
-      "AH",
-      "N",
-      "T"
-    ],
-    "stress": 1,
-    "p": 0.994722955145118
-  },
-  {
     "word": "cursory",
     "variant": 0,
     "phonemes": [
@@ -12426,19 +12127,6 @@
     ],
     "stress": 1,
     "p": 0.997679814385151
-  },
-  {
-    "word": "cyanide",
-    "variant": 1,
-    "phonemes": [
-      "S",
-      "AY",
-      "N",
-      "AY",
-      "D"
-    ],
-    "stress": 1,
-    "p": 0.976253298153034
   },
   {
     "word": "cycle",
@@ -13767,19 +13455,6 @@
     "p": 0.647696476964769
   },
   {
-    "word": "dialing",
-    "variant": 1,
-    "phonemes": [
-      "D",
-      "AY",
-      "L",
-      "IH",
-      "NG"
-    ],
-    "stress": 1,
-    "p": 0.985
-  },
-  {
     "word": "diarrhea",
     "variant": 0,
     "phonemes": [
@@ -13947,32 +13622,6 @@
     ],
     "stress": 1,
     "p": 0.992443324937027
-  },
-  {
-    "word": "direct",
-    "variant": 0,
-    "phonemes": [
-      "D",
-      "ER",
-      "EH",
-      "K",
-      "T"
-    ],
-    "stress": 2,
-    "p": 0.992207792207792
-  },
-  {
-    "word": "disarray",
-    "variant": 0,
-    "phonemes": [
-      "D",
-      "IH",
-      "S",
-      "ER",
-      "EY"
-    ],
-    "stress": 4,
-    "p": 0.989821882951654
   },
   {
     "word": "discern",
@@ -14495,19 +14144,6 @@
     "p": 0.941772151898734
   },
   {
-    "word": "dram",
-    "variant": 1,
-    "phonemes": [
-      "D",
-      "IY",
-      "R",
-      "AE",
-      "M"
-    ],
-    "stress": 1,
-    "p": 0.731591448931116
-  },
-  {
     "word": "drama",
     "variant": 0,
     "phonemes": [
@@ -14963,19 +14599,6 @@
     "p": 0.983827493261455
   },
   {
-    "word": "duet",
-    "variant": 1,
-    "phonemes": [
-      "D",
-      "Y",
-      "UW",
-      "EH",
-      "T"
-    ],
-    "stress": 3,
-    "p": 0.992268041237113
-  },
-  {
     "word": "duffel",
     "variant": 0,
     "phonemes": [
@@ -15067,19 +14690,6 @@
     "p": 0.896907216494845
   },
   {
-    "word": "during",
-    "variant": 0,
-    "phonemes": [
-      "D",
-      "UH",
-      "R",
-      "IH",
-      "NG"
-    ],
-    "stress": 1,
-    "p": 0.997590361445783
-  },
-  {
     "word": "duster",
     "variant": 0,
     "phonemes": [
@@ -15104,19 +14714,6 @@
     ],
     "stress": 1,
     "p": 0.994301994301994
-  },
-  {
-    "word": "duty",
-    "variant": 1,
-    "phonemes": [
-      "D",
-      "Y",
-      "UW",
-      "T",
-      "IY"
-    ],
-    "stress": 2,
-    "p": 1
   },
   {
     "word": "dwarf",
@@ -15704,32 +15301,6 @@
     "p": 0.958435207823961
   },
   {
-    "word": "emptier",
-    "variant": 1,
-    "phonemes": [
-      "EH",
-      "M",
-      "T",
-      "IY",
-      "ER"
-    ],
-    "stress": 0,
-    "p": 0.900243309002433
-  },
-  {
-    "word": "empty",
-    "variant": 0,
-    "phonemes": [
-      "EH",
-      "M",
-      "P",
-      "T",
-      "IY"
-    ],
-    "stress": 0,
-    "p": 1
-  },
-  {
     "word": "enact",
     "variant": 0,
     "phonemes": [
@@ -15832,19 +15403,6 @@
     ],
     "stress": 0,
     "p": 0.752913752913753
-  },
-  {
-    "word": "endure",
-    "variant": 1,
-    "phonemes": [
-      "IH",
-      "N",
-      "D",
-      "UH",
-      "R"
-    ],
-    "stress": 3,
-    "p": 1
   },
   {
     "word": "enema",
@@ -15962,19 +15520,6 @@
     ],
     "stress": 3,
     "p": 0.962085308056872
-  },
-  {
-    "word": "entering",
-    "variant": 1,
-    "phonemes": [
-      "EH",
-      "N",
-      "ER",
-      "IH",
-      "NG"
-    ],
-    "stress": 0,
-    "p": 1
   },
   {
     "word": "enthuse",
@@ -16757,19 +16302,6 @@
     "p": 0.963060686015831
   },
   {
-    "word": "family",
-    "variant": 1,
-    "phonemes": [
-      "F",
-      "AE",
-      "M",
-      "L",
-      "IY"
-    ],
-    "stress": 1,
-    "p": 0.995133819951338
-  },
-  {
     "word": "famine",
     "variant": 0,
     "phonemes": [
@@ -16898,19 +16430,6 @@
     ],
     "stress": 1,
     "p": 0.997668997668998
-  },
-  {
-    "word": "fastener",
-    "variant": 1,
-    "phonemes": [
-      "F",
-      "AE",
-      "S",
-      "N",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.984536082474227
   },
   {
     "word": "faster",
@@ -17067,19 +16586,6 @@
     ],
     "stress": 1,
     "p": 0.959287531806616
-  },
-  {
-    "word": "fealty",
-    "variant": 1,
-    "phonemes": [
-      "F",
-      "IY",
-      "L",
-      "T",
-      "IY"
-    ],
-    "stress": 1,
-    "p": 0.625954198473282
   },
   {
     "word": "feaster",
@@ -17472,19 +16978,6 @@
     "p": 0.986547085201794
   },
   {
-    "word": "fiddler",
-    "variant": 1,
-    "phonemes": [
-      "F",
-      "IH",
-      "D",
-      "L",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 1
-  },
-  {
     "word": "fidget",
     "variant": 0,
     "phonemes": [
@@ -17717,19 +17210,6 @@
     ],
     "stress": 1,
     "p": 0.972027972027972
-  },
-  {
-    "word": "firing",
-    "variant": 0,
-    "phonemes": [
-      "F",
-      "AY",
-      "R",
-      "IH",
-      "NG"
-    ],
-    "stress": 1,
-    "p": 0.992084432717678
   },
   {
     "word": "firmly",
@@ -18460,19 +17940,6 @@
     "p": 0.99492385786802
   },
   {
-    "word": "foliage",
-    "variant": 0,
-    "phonemes": [
-      "F",
-      "OW",
-      "L",
-      "IH",
-      "JH"
-    ],
-    "stress": 1,
-    "p": 0.995157384987893
-  },
-  {
     "word": "folic",
     "variant": 0,
     "phonemes": [
@@ -18523,19 +17990,6 @@
     ],
     "stress": 1,
     "p": 1
-  },
-  {
-    "word": "fondue",
-    "variant": 1,
-    "phonemes": [
-      "F",
-      "AA",
-      "N",
-      "D",
-      "UW"
-    ],
-    "stress": 1,
-    "p": 0.992366412213741
   },
   {
     "word": "foolery",
@@ -18614,19 +18068,6 @@
     ],
     "stress": 1,
     "p": 0.987046632124353
-  },
-  {
-    "word": "fop",
-    "variant": 1,
-    "phonemes": [
-      "EH",
-      "F",
-      "OW",
-      "P",
-      "IY"
-    ],
-    "stress": 0,
-    "p": 0.650918635170603
   },
   {
     "word": "forage",
@@ -18733,32 +18174,6 @@
     "p": 0.965346534653465
   },
   {
-    "word": "forget",
-    "variant": 0,
-    "phonemes": [
-      "F",
-      "ER",
-      "G",
-      "EH",
-      "T"
-    ],
-    "stress": 3,
-    "p": 0.997555012224939
-  },
-  {
-    "word": "forgive",
-    "variant": 0,
-    "phonemes": [
-      "F",
-      "ER",
-      "G",
-      "IH",
-      "V"
-    ],
-    "stress": 3,
-    "p": 0.992125984251969
-  },
-  {
     "word": "forgo",
     "variant": 0,
     "phonemes": [
@@ -18770,19 +18185,6 @@
     ],
     "stress": 4,
     "p": 0.869897959183674
-  },
-  {
-    "word": "forgot",
-    "variant": 0,
-    "phonemes": [
-      "F",
-      "ER",
-      "G",
-      "AA",
-      "T"
-    ],
-    "stress": 3,
-    "p": 0.995169082125604
   },
   {
     "word": "forked",
@@ -18822,19 +18224,6 @@
     ],
     "stress": 1,
     "p": 1
-  },
-  {
-    "word": "forte",
-    "variant": 0,
-    "phonemes": [
-      "F",
-      "AO",
-      "R",
-      "T",
-      "EY"
-    ],
-    "stress": 1,
-    "p": 0.964871194379391
   },
   {
     "word": "forty",
@@ -19303,19 +18692,6 @@
     ],
     "stress": 1,
     "p": 0.757211538461539
-  },
-  {
-    "word": "fuel",
-    "variant": 0,
-    "phonemes": [
-      "F",
-      "Y",
-      "UW",
-      "AH",
-      "L"
-    ],
-    "stress": 2,
-    "p": 1
   },
   {
     "word": "funder",
@@ -20046,19 +19422,6 @@
     "p": 0.997297297297297
   },
   {
-    "word": "gentle",
-    "variant": 1,
-    "phonemes": [
-      "JH",
-      "EH",
-      "N",
-      "AH",
-      "L"
-    ],
-    "stress": 1,
-    "p": 0.997402597402598
-  },
-  {
     "word": "gents",
     "variant": 0,
     "phonemes": [
@@ -20657,19 +20020,6 @@
     "p": 0.992771084337349
   },
   {
-    "word": "gobbler",
-    "variant": 1,
-    "phonemes": [
-      "G",
-      "AA",
-      "B",
-      "L",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.953810623556582
-  },
-  {
     "word": "goddamn",
     "variant": 0,
     "phonemes": [
@@ -20941,19 +20291,6 @@
     ],
     "stress": 2,
     "p": 0.975124378109453
-  },
-  {
-    "word": "graham",
-    "variant": 0,
-    "phonemes": [
-      "G",
-      "R",
-      "EY",
-      "AH",
-      "M"
-    ],
-    "stress": 2,
-    "p": 0.950391644908616
   },
   {
     "word": "grained",
@@ -21515,19 +20852,6 @@
     "p": 0.997787610619469
   },
   {
-    "word": "grounds",
-    "variant": 1,
-    "phonemes": [
-      "G",
-      "R",
-      "AW",
-      "N",
-      "Z"
-    ],
-    "stress": 2,
-    "p": 0.99047619047619
-  },
-  {
     "word": "grouped",
     "variant": 0,
     "phonemes": [
@@ -21773,19 +21097,6 @@
     ],
     "stress": 3,
     "p": 1
-  },
-  {
-    "word": "gulag",
-    "variant": 1,
-    "phonemes": [
-      "G",
-      "UW",
-      "L",
-      "AA",
-      "G"
-    ],
-    "stress": 1,
-    "p": 0.68395061728395
   },
   {
     "word": "gullet",
@@ -22189,19 +21500,6 @@
     ],
     "stress": 1,
     "p": 0.99273607748184
-  },
-  {
-    "word": "hanging",
-    "variant": 0,
-    "phonemes": [
-      "HH",
-      "AE",
-      "NG",
-      "IH",
-      "NG"
-    ],
-    "stress": 1,
-    "p": 0.997442455242967
   },
   {
     "word": "hangout",
@@ -22893,32 +22191,6 @@
     "p": 0.777777777777778
   },
   {
-    "word": "herbal",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "ER",
-      "B",
-      "AH",
-      "L"
-    ],
-    "stress": 1,
-    "p": 0.995157384987893
-  },
-  {
-    "word": "herder",
-    "variant": 0,
-    "phonemes": [
-      "HH",
-      "EH",
-      "R",
-      "D",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.924528301886793
-  },
-  {
     "word": "herding",
     "variant": 0,
     "phonemes": [
@@ -23021,19 +22293,6 @@
     ],
     "stress": 1,
     "p": 0.948051948051948
-  },
-  {
-    "word": "hertz",
-    "variant": 0,
-    "phonemes": [
-      "HH",
-      "EH",
-      "R",
-      "T",
-      "S"
-    ],
-    "stress": 1,
-    "p": 0.898009950248756
   },
   {
     "word": "hessian",
@@ -23309,19 +22568,6 @@
     "p": 0.995192307692308
   },
   {
-    "word": "homage",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "AA",
-      "M",
-      "AH",
-      "JH"
-    ],
-    "stress": 1,
-    "p": 0.977941176470588
-  },
-  {
     "word": "homely",
     "variant": 0,
     "phonemes": [
@@ -23333,19 +22579,6 @@
     ],
     "stress": 1,
     "p": 0.991935483870968
-  },
-  {
-    "word": "homemade",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "OW",
-      "M",
-      "EY",
-      "D"
-    ],
-    "stress": 1,
-    "p": 0.997572815533981
   },
   {
     "word": "homing",
@@ -23660,19 +22893,6 @@
     "p": 0.997333333333333
   },
   {
-    "word": "human",
-    "variant": 1,
-    "phonemes": [
-      "Y",
-      "UW",
-      "M",
-      "AH",
-      "N"
-    ],
-    "stress": 1,
-    "p": 0.994884910485933
-  },
-  {
     "word": "humming",
     "variant": 0,
     "phonemes": [
@@ -23736,19 +22956,6 @@
     ],
     "stress": 1,
     "p": 0.769423558897243
-  },
-  {
-    "word": "hundred",
-    "variant": 2,
-    "phonemes": [
-      "HH",
-      "AH",
-      "N",
-      "ER",
-      "D"
-    ],
-    "stress": 1,
-    "p": 0.995680345572354
   },
   {
     "word": "hunger",
@@ -23829,19 +23036,6 @@
     "p": 0.991803278688525
   },
   {
-    "word": "hurdler",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "ER",
-      "D",
-      "L",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.949367088607595
-  },
-  {
     "word": "hurling",
     "variant": 0,
     "phonemes": [
@@ -23905,19 +23099,6 @@
     ],
     "stress": 1,
     "p": 0.997506234413965
-  },
-  {
-    "word": "hustler",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "AH",
-      "S",
-      "L",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.994638069705094
   },
   {
     "word": "hydra",
@@ -24037,19 +23218,6 @@
     "p": 0.957711442786069
   },
   {
-    "word": "iceskate",
-    "variant": 1,
-    "phonemes": [
-      "AY",
-      "S",
-      "K",
-      "EY",
-      "T"
-    ],
-    "stress": 0,
-    "p": 0.925558312655087
-  },
-  {
     "word": "icily",
     "variant": 0,
     "phonemes": [
@@ -24100,19 +23268,6 @@
     ],
     "stress": 0,
     "p": 0.987593052109181
-  },
-  {
-    "word": "idler",
-    "variant": 0,
-    "phonemes": [
-      "AY",
-      "D",
-      "AH",
-      "L",
-      "ER"
-    ],
-    "stress": 0,
-    "p": 0.899736147757256
   },
   {
     "word": "ignite",
@@ -24739,19 +23894,6 @@
     "p": 0.992592592592592
   },
   {
-    "word": "interim",
-    "variant": 2,
-    "phonemes": [
-      "IH",
-      "N",
-      "ER",
-      "AH",
-      "M"
-    ],
-    "stress": 0,
-    "p": 0.957920792079208
-  },
-  {
     "word": "intern",
     "variant": 0,
     "phonemes": [
@@ -25220,19 +24362,6 @@
     "p": 0.898701298701299
   },
   {
-    "word": "jeweler",
-    "variant": 0,
-    "phonemes": [
-      "JH",
-      "UW",
-      "AH",
-      "L",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.976303317535545
-  },
-  {
     "word": "jiggle",
     "variant": 0,
     "phonemes": [
@@ -25350,19 +24479,6 @@
     "p": 0.997395833333333
   },
   {
-    "word": "jointed",
-    "variant": 2,
-    "phonemes": [
-      "JH",
-      "OY",
-      "N",
-      "IH",
-      "D"
-    ],
-    "stress": 1,
-    "p": 0.997524752475247
-  },
-  {
     "word": "jollier",
     "variant": 0,
     "phonemes": [
@@ -25439,19 +24555,6 @@
     ],
     "stress": 1,
     "p": 0.99497487437186
-  },
-  {
-    "word": "juggler",
-    "variant": 1,
-    "phonemes": [
-      "JH",
-      "AH",
-      "G",
-      "L",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.986910994764398
   },
   {
     "word": "julep",
@@ -26819,19 +25922,6 @@
     "p": 0.987405541561713
   },
   {
-    "word": "learned",
-    "variant": 1,
-    "phonemes": [
-      "L",
-      "ER",
-      "N",
-      "IH",
-      "D"
-    ],
-    "stress": 1,
-    "p": 0.991573033707866
-  },
-  {
     "word": "learning",
     "variant": 0,
     "phonemes": [
@@ -26988,19 +26078,6 @@
     "p": 0.73876404494382
   },
   {
-    "word": "legged",
-    "variant": 0,
-    "phonemes": [
-      "L",
-      "EH",
-      "G",
-      "AH",
-      "D"
-    ],
-    "stress": 1,
-    "p": 0.974554707379135
-  },
-  {
     "word": "legging",
     "variant": 0,
     "phonemes": [
@@ -27064,19 +26141,6 @@
     ],
     "stress": 1,
     "p": 0.981288981288981
-  },
-  {
-    "word": "length",
-    "variant": 0,
-    "phonemes": [
-      "L",
-      "EH",
-      "NG",
-      "K",
-      "TH"
-    ],
-    "stress": 1,
-    "p": 0.994791666666667
   },
   {
     "word": "lengthy",
@@ -27469,19 +26533,6 @@
     "p": 0.97289972899729
   },
   {
-    "word": "linger",
-    "variant": 0,
-    "phonemes": [
-      "L",
-      "IH",
-      "NG",
-      "G",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.994334277620397
-  },
-  {
     "word": "lingo",
     "variant": 0,
     "phonemes": [
@@ -27571,19 +26622,6 @@
     ],
     "stress": 1,
     "p": 0.997402597402597
-  },
-  {
-    "word": "listener",
-    "variant": 1,
-    "phonemes": [
-      "L",
-      "IH",
-      "S",
-      "N",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.994845360824742
   },
   {
     "word": "lithic",
@@ -28730,19 +27768,6 @@
     "p": 0.986945169712794
   },
   {
-    "word": "mam",
-    "variant": 1,
-    "phonemes": [
-      "EH",
-      "M",
-      "EY",
-      "EH",
-      "M"
-    ],
-    "stress": 0,
-    "p": 0.532894736842106
-  },
-  {
     "word": "mamba",
     "variant": 0,
     "phonemes": [
@@ -29250,19 +28275,6 @@
     "p": 0.938242280285035
   },
   {
-    "word": "mature",
-    "variant": 0,
-    "phonemes": [
-      "M",
-      "AH",
-      "CH",
-      "UH",
-      "R"
-    ],
-    "stress": 3,
-    "p": 1
-  },
-  {
     "word": "maven",
     "variant": 0,
     "phonemes": [
@@ -29495,19 +28507,6 @@
     ],
     "stress": 1,
     "p": 0.99273607748184
-  },
-  {
-    "word": "mentor",
-    "variant": 1,
-    "phonemes": [
-      "M",
-      "EH",
-      "N",
-      "T",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 1
   },
   {
     "word": "menu",
@@ -29796,19 +28795,6 @@
     "p": 0.995110024449878
   },
   {
-    "word": "midst",
-    "variant": 0,
-    "phonemes": [
-      "M",
-      "IH",
-      "D",
-      "S",
-      "T"
-    ],
-    "stress": 1,
-    "p": 0.983606557377049
-  },
-  {
     "word": "midway",
     "variant": 0,
     "phonemes": [
@@ -29846,19 +28832,6 @@
     ],
     "stress": 1,
     "p": 0.987893462469733
-  },
-  {
-    "word": "miles",
-    "variant": 1,
-    "phonemes": [
-      "M",
-      "AY",
-      "AH",
-      "L",
-      "Z"
-    ],
-    "stress": 1,
-    "p": 0.997524752475248
   },
   {
     "word": "milieu",
@@ -30446,19 +29419,6 @@
     "p": 0.876744186046511
   },
   {
-    "word": "moped",
-    "variant": 1,
-    "phonemes": [
-      "M",
-      "OW",
-      "P",
-      "EH",
-      "D"
-    ],
-    "stress": 1,
-    "p": 0.968446601941747
-  },
-  {
     "word": "moping",
     "variant": 0,
     "phonemes": [
@@ -30483,19 +29443,6 @@
     ],
     "stress": 1,
     "p": 0.99171270718232
-  },
-  {
-    "word": "morass",
-    "variant": 1,
-    "phonemes": [
-      "M",
-      "AO",
-      "R",
-      "AE",
-      "S"
-    ],
-    "stress": 1,
-    "p": 0.621052631578948
   },
   {
     "word": "morocco",
@@ -30535,19 +29482,6 @@
     ],
     "stress": 1,
     "p": 0.983050847457627
-  },
-  {
-    "word": "mostly",
-    "variant": 1,
-    "phonemes": [
-      "M",
-      "OW",
-      "S",
-      "L",
-      "IY"
-    ],
-    "stress": 1,
-    "p": 1
   },
   {
     "word": "motel",
@@ -30613,19 +29547,6 @@
     ],
     "stress": 1,
     "p": 0.933174224343675
-  },
-  {
-    "word": "mounted",
-    "variant": 2,
-    "phonemes": [
-      "M",
-      "AW",
-      "N",
-      "IH",
-      "D"
-    ],
-    "stress": 1,
-    "p": 0.997442455242967
   },
   {
     "word": "mourner",
@@ -31395,19 +30316,6 @@
     "p": 0.906818181818182
   },
   {
-    "word": "neural",
-    "variant": 0,
-    "phonemes": [
-      "N",
-      "UH",
-      "R",
-      "AH",
-      "L"
-    ],
-    "stress": 1,
-    "p": 0.931645569620253
-  },
-  {
     "word": "neuron",
     "variant": 0,
     "phonemes": [
@@ -31432,19 +30340,6 @@
     ],
     "stress": 1,
     "p": 0.944444444444444
-  },
-  {
-    "word": "next",
-    "variant": 0,
-    "phonemes": [
-      "N",
-      "EH",
-      "K",
-      "S",
-      "T"
-    ],
-    "stress": 1,
-    "p": 0.997596153846154
   },
   {
     "word": "nibble",
@@ -31783,19 +30678,6 @@
     ],
     "stress": 1,
     "p": 0.988095238095238
-  },
-  {
-    "word": "nowhere",
-    "variant": 0,
-    "phonemes": [
-      "N",
-      "OW",
-      "W",
-      "EH",
-      "R"
-    ],
-    "stress": 1,
-    "p": 0.976744186046512
   },
   {
     "word": "nozzle",
@@ -32279,19 +31161,6 @@
     "p": 0.992647058823529
   },
   {
-    "word": "often",
-    "variant": 0,
-    "phonemes": [
-      "AO",
-      "F",
-      "T",
-      "AH",
-      "N"
-    ],
-    "stress": 0,
-    "p": 0.997555012224939
-  },
-  {
     "word": "oilman",
     "variant": 0,
     "phonemes": [
@@ -32342,19 +31211,6 @@
     ],
     "stress": 0,
     "p": 0.948275862068966
-  },
-  {
-    "word": "oneness",
-    "variant": 1,
-    "phonemes": [
-      "W",
-      "AH",
-      "N",
-      "AH",
-      "S"
-    ],
-    "stress": 1,
-    "p": 0.893899204244032
   },
   {
     "word": "onerous",
@@ -33124,32 +31980,6 @@
     "p": 0.943052391799544
   },
   {
-    "word": "outtake",
-    "variant": 0,
-    "phonemes": [
-      "AW",
-      "T",
-      "T",
-      "EY",
-      "K"
-    ],
-    "stress": 0,
-    "p": 0.949197860962567
-  },
-  {
-    "word": "outtakes",
-    "variant": 1,
-    "phonemes": [
-      "AW",
-      "T",
-      "EY",
-      "K",
-      "S"
-    ],
-    "stress": 0,
-    "p": 0.963917525773196
-  },
-  {
     "word": "outvote",
     "variant": 0,
     "phonemes": [
@@ -33488,19 +32318,6 @@
     "p": 0.995098039215686
   },
   {
-    "word": "painting",
-    "variant": 1,
-    "phonemes": [
-      "P",
-      "EY",
-      "N",
-      "IH",
-      "NG"
-    ],
-    "stress": 1,
-    "p": 0.997142857142857
-  },
-  {
     "word": "paisley",
     "variant": 0,
     "phonemes": [
@@ -33564,19 +32381,6 @@
     ],
     "stress": 1,
     "p": 0.807407407407407
-  },
-  {
-    "word": "palmer",
-    "variant": 1,
-    "phonemes": [
-      "P",
-      "AA",
-      "L",
-      "M",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.768472906403941
   },
   {
     "word": "palsy",
@@ -34723,19 +33527,6 @@
     "p": 0.929782082324455
   },
   {
-    "word": "phantom",
-    "variant": 1,
-    "phonemes": [
-      "F",
-      "AE",
-      "N",
-      "AH",
-      "M"
-    ],
-    "stress": 1,
-    "p": 0.99737532808399
-  },
-  {
     "word": "pharos",
     "variant": 0,
     "phonemes": [
@@ -35555,19 +34346,6 @@
     "p": 1
   },
   {
-    "word": "plenty",
-    "variant": 1,
-    "phonemes": [
-      "P",
-      "L",
-      "EH",
-      "N",
-      "IY"
-    ],
-    "stress": 2,
-    "p": 0.997429305912596
-  },
-  {
     "word": "pliers",
     "variant": 0,
     "phonemes": [
@@ -35865,19 +34643,6 @@
     ],
     "stress": 3,
     "p": 0.992268041237113
-  },
-  {
-    "word": "polka",
-    "variant": 0,
-    "phonemes": [
-      "P",
-      "OW",
-      "L",
-      "K",
-      "AA"
-    ],
-    "stress": 1,
-    "p": 0.978891820580475
   },
   {
     "word": "pollard",
@@ -36684,19 +35449,6 @@
     ],
     "stress": 2,
     "p": 0.997619047619047
-  },
-  {
-    "word": "proceed",
-    "variant": 2,
-    "phonemes": [
-      "P",
-      "ER",
-      "S",
-      "IY",
-      "D"
-    ],
-    "stress": 3,
-    "p": 0.992443324937027
   },
   {
     "word": "proffer",
@@ -38181,19 +36933,6 @@
     "p": 0.941176470588235
   },
   {
-    "word": "ratchet",
-    "variant": 0,
-    "phonemes": [
-      "R",
-      "AE",
-      "CH",
-      "AH",
-      "T"
-    ],
-    "stress": 1,
-    "p": 0.982323232323232
-  },
-  {
     "word": "rated",
     "variant": 0,
     "phonemes": [
@@ -38257,19 +36996,6 @@
     ],
     "stress": 1,
     "p": 0.991869918699187
-  },
-  {
-    "word": "rattler",
-    "variant": 1,
-    "phonemes": [
-      "R",
-      "AE",
-      "T",
-      "L",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.946731234866828
   },
   {
     "word": "raucous",
@@ -38426,19 +37152,6 @@
     ],
     "stress": 1,
     "p": 0.837708830548926
-  },
-  {
-    "word": "realtor",
-    "variant": 1,
-    "phonemes": [
-      "R",
-      "IY",
-      "L",
-      "T",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.935754189944134
   },
   {
     "word": "rearm",
@@ -38634,19 +37347,6 @@
     ],
     "stress": 1,
     "p": 0.849411764705883
-  },
-  {
-    "word": "record",
-    "variant": 1,
-    "phonemes": [
-      "R",
-      "EH",
-      "K",
-      "ER",
-      "D"
-    ],
-    "stress": 1,
-    "p": 1
   },
   {
     "word": "recoup",
@@ -39245,19 +37945,6 @@
     ],
     "stress": 3,
     "p": 0.979310344827586
-  },
-  {
-    "word": "replace",
-    "variant": 1,
-    "phonemes": [
-      "ER",
-      "P",
-      "L",
-      "EY",
-      "S"
-    ],
-    "stress": 3,
-    "p": 0.99234693877551
   },
   {
     "word": "replay",
@@ -40807,19 +39494,6 @@
     "p": 0.990566037735849
   },
   {
-    "word": "saddler",
-    "variant": 1,
-    "phonemes": [
-      "S",
-      "AE",
-      "D",
-      "L",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.863080684596577
-  },
-  {
     "word": "sadly",
     "variant": 0,
     "phonemes": [
@@ -41065,19 +39739,6 @@
     ],
     "stress": 1,
     "p": 0.532608695652174
-  },
-  {
-    "word": "samurai",
-    "variant": 1,
-    "phonemes": [
-      "S",
-      "AE",
-      "M",
-      "ER",
-      "AY"
-    ],
-    "stress": 1,
-    "p": 0.978835978835978
   },
   {
     "word": "sander",
@@ -42354,19 +41015,6 @@
     "p": 0.958230958230958
   },
   {
-    "word": "segue",
-    "variant": 1,
-    "phonemes": [
-      "S",
-      "EH",
-      "G",
-      "W",
-      "EY"
-    ],
-    "stress": 1,
-    "p": 0.71712158808933
-  },
-  {
     "word": "seizing",
     "variant": 0,
     "phonemes": [
@@ -42651,19 +41299,6 @@
     ],
     "stress": 1,
     "p": 0.997368421052631
-  },
-  {
-    "word": "settler",
-    "variant": 1,
-    "phonemes": [
-      "S",
-      "EH",
-      "T",
-      "L",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.985074626865671
   },
   {
     "word": "setup",
@@ -43691,19 +42326,6 @@
     ],
     "stress": 1,
     "p": 0.992307692307692
-  },
-  {
-    "word": "shuffler",
-    "variant": 1,
-    "phonemes": [
-      "SH",
-      "AH",
-      "F",
-      "L",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.955958549222798
   },
   {
     "word": "shutout",
@@ -45526,19 +44148,6 @@
     "p": 0.91415313225058
   },
   {
-    "word": "softly",
-    "variant": 1,
-    "phonemes": [
-      "S",
-      "AO",
-      "F",
-      "L",
-      "IY"
-    ],
-    "stress": 1,
-    "p": 0.989473684210526
-  },
-  {
     "word": "soiree",
     "variant": 0,
     "phonemes": [
@@ -45732,19 +44341,6 @@
     ],
     "stress": 1,
     "p": 0.910411622276029
-  },
-  {
-    "word": "sorbet",
-    "variant": 0,
-    "phonemes": [
-      "S",
-      "AO",
-      "R",
-      "B",
-      "EY"
-    ],
-    "stress": 4,
-    "p": 0.970223325062035
   },
   {
     "word": "sorely",
@@ -49049,32 +47645,6 @@
     "p": 0.865591397849462
   },
   {
-    "word": "syringe",
-    "variant": 0,
-    "phonemes": [
-      "S",
-      "ER",
-      "IH",
-      "N",
-      "JH"
-    ],
-    "stress": 2,
-    "p": 0.992424242424242
-  },
-  {
-    "word": "syrup",
-    "variant": 1,
-    "phonemes": [
-      "S",
-      "IH",
-      "R",
-      "AH",
-      "P"
-    ],
-    "stress": 1,
-    "p": 1
-  },
-  {
     "word": "t-shirt",
     "variant": 0,
     "phonemes": [
@@ -49372,19 +47942,6 @@
     ],
     "stress": 1,
     "p": 0.986046511627907
-  },
-  {
-    "word": "target",
-    "variant": 1,
-    "phonemes": [
-      "T",
-      "ER",
-      "G",
-      "AH",
-      "T"
-    ],
-    "stress": 1,
-    "p": 1
   },
   {
     "word": "tariff",
@@ -49868,19 +48425,6 @@
     "p": 0.84863523573201
   },
   {
-    "word": "tertiary",
-    "variant": 0,
-    "phonemes": [
-      "T",
-      "ER",
-      "SH",
-      "ER",
-      "IY"
-    ],
-    "stress": 1,
-    "p": 0.869017632241814
-  },
-  {
     "word": "tester",
     "variant": 0,
     "phonemes": [
@@ -50193,19 +48737,6 @@
     "p": 0.969465648854962
   },
   {
-    "word": "thinness",
-    "variant": 1,
-    "phonemes": [
-      "TH",
-      "IH",
-      "N",
-      "IH",
-      "S"
-    ],
-    "stress": 1,
-    "p": 0.926952141057934
-  },
-  {
     "word": "thinning",
     "variant": 0,
     "phonemes": [
@@ -50295,19 +48826,6 @@
     ],
     "stress": 1,
     "p": 0.997630331753554
-  },
-  {
-    "word": "thousand",
-    "variant": 1,
-    "phonemes": [
-      "TH",
-      "AW",
-      "Z",
-      "AH",
-      "N"
-    ],
-    "stress": 1,
-    "p": 0.997319034852547
   },
   {
     "word": "thrasher",
@@ -50830,19 +49348,6 @@
     "p": 0.989821882951654
   },
   {
-    "word": "tissue",
-    "variant": 0,
-    "phonemes": [
-      "T",
-      "IH",
-      "S",
-      "Y",
-      "UW"
-    ],
-    "stress": 1,
-    "p": 0.994962216624685
-  },
-  {
     "word": "titan",
     "variant": 0,
     "phonemes": [
@@ -51272,19 +49777,6 @@
     "p": 0.992907801418439
   },
   {
-    "word": "towards",
-    "variant": 1,
-    "phonemes": [
-      "T",
-      "AO",
-      "R",
-      "D",
-      "Z"
-    ],
-    "stress": 1,
-    "p": 0.989247311827957
-  },
-  {
     "word": "towboat",
     "variant": 0,
     "phonemes": [
@@ -51296,19 +49788,6 @@
     ],
     "stress": 1,
     "p": 0.909297052154195
-  },
-  {
-    "word": "toweling",
-    "variant": 1,
-    "phonemes": [
-      "T",
-      "AW",
-      "L",
-      "IH",
-      "NG"
-    ],
-    "stress": 1,
-    "p": 0.871559633027523
   },
   {
     "word": "tracer",
@@ -51649,19 +50128,6 @@
     "p": 0.937984496124031
   },
   {
-    "word": "trial",
-    "variant": 0,
-    "phonemes": [
-      "T",
-      "R",
-      "AY",
-      "AH",
-      "L"
-    ],
-    "stress": 2,
-    "p": 0.994791666666666
-  },
-  {
     "word": "tricky",
     "variant": 0,
     "phonemes": [
@@ -51896,19 +50362,6 @@
     "p": 0.9975
   },
   {
-    "word": "trying",
-    "variant": 0,
-    "phonemes": [
-      "T",
-      "R",
-      "AY",
-      "IH",
-      "NG"
-    ],
-    "stress": 2,
-    "p": 1
-  },
-  {
     "word": "tryout",
     "variant": 0,
     "phonemes": [
@@ -51920,19 +50373,6 @@
     ],
     "stress": 2,
     "p": 0.965034965034965
-  },
-  {
-    "word": "tsetse",
-    "variant": 1,
-    "phonemes": [
-      "T",
-      "IY",
-      "T",
-      "S",
-      "IY"
-    ],
-    "stress": 1,
-    "p": 0.561224489795919
   },
   {
     "word": "tubal",
@@ -51972,19 +50412,6 @@
     ],
     "stress": 1,
     "p": 0.984536082474227
-  },
-  {
-    "word": "tudor",
-    "variant": 1,
-    "phonemes": [
-      "T",
-      "Y",
-      "UW",
-      "D",
-      "ER"
-    ],
-    "stress": 2,
-    "p": 0.939726027397261
   },
   {
     "word": "tugging",
@@ -52089,19 +50516,6 @@
     ],
     "stress": 1,
     "p": 0.987593052109181
-  },
-  {
-    "word": "turbot",
-    "variant": 1,
-    "phonemes": [
-      "T",
-      "ER",
-      "B",
-      "AH",
-      "T"
-    ],
-    "stress": 1,
-    "p": 0.515706806282723
   },
   {
     "word": "turgid",
@@ -53352,19 +51766,6 @@
     "p": 0.989610389610389
   },
   {
-    "word": "urine",
-    "variant": 1,
-    "phonemes": [
-      "Y",
-      "UH",
-      "R",
-      "AH",
-      "N"
-    ],
-    "stress": 1,
-    "p": 0.992268041237113
-  },
-  {
     "word": "usurp",
     "variant": 0,
     "phonemes": [
@@ -54353,19 +52754,6 @@
     "p": 0.926289926289926
   },
   {
-    "word": "waltz",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "AO",
-      "L",
-      "T",
-      "S"
-    ],
-    "stress": 1,
-    "p": 0.99002493765586
-  },
-  {
     "word": "wander",
     "variant": 0,
     "phonemes": [
@@ -54403,19 +52791,6 @@
     ],
     "stress": 1,
     "p": 0.914786967418546
-  },
-  {
-    "word": "wanting",
-    "variant": 1,
-    "phonemes": [
-      "W",
-      "AA",
-      "N",
-      "IH",
-      "NG"
-    ],
-    "stress": 1,
-    "p": 0.997382198952879
   },
   {
     "word": "warder",
@@ -54990,240 +53365,6 @@
     "p": 0.677647058823529
   },
   {
-    "word": "wetting",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "EH",
-      "T",
-      "IH",
-      "NG"
-    ],
-    "stress": 1,
-    "p": 0.981087470449172
-  },
-  {
-    "word": "whacker",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "AE",
-      "K",
-      "ER"
-    ],
-    "stress": 2,
-    "p": 0.886160714285714
-  },
-  {
-    "word": "whacking",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "AE",
-      "K",
-      "IH",
-      "NG"
-    ],
-    "stress": 1,
-    "p": 0.976190476190476
-  },
-  {
-    "word": "whaler",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "EY",
-      "L",
-      "ER"
-    ],
-    "stress": 2,
-    "p": 0.96969696969697
-  },
-  {
-    "word": "whaling",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "EY",
-      "L",
-      "IH",
-      "NG"
-    ],
-    "stress": 1,
-    "p": 0.954022988505747
-  },
-  {
-    "word": "whammy",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "AE",
-      "M",
-      "IY"
-    ],
-    "stress": 2,
-    "p": 0.939467312348669
-  },
-  {
-    "word": "wharf",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "AO",
-      "R",
-      "F"
-    ],
-    "stress": 2,
-    "p": 0.972568578553616
-  },
-  {
-    "word": "wheaten",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "IY",
-      "T",
-      "AH",
-      "N"
-    ],
-    "stress": 1,
-    "p": 0.562659846547314
-  },
-  {
-    "word": "wheeled",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "IY",
-      "L",
-      "D"
-    ],
-    "stress": 2,
-    "p": 0.99234693877551
-  },
-  {
-    "word": "wheeler",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "IY",
-      "L",
-      "ER"
-    ],
-    "stress": 2,
-    "p": 0.95774647887324
-  },
-  {
-    "word": "wheeling",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "IY",
-      "L",
-      "IH",
-      "NG"
-    ],
-    "stress": 1,
-    "p": 0.980629539951574
-  },
-  {
-    "word": "whence",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "EH",
-      "N",
-      "S"
-    ],
-    "stress": 2,
-    "p": 0.947368421052632
-  },
-  {
-    "word": "whereas",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "EH",
-      "R",
-      "AE",
-      "Z"
-    ],
-    "stress": 3,
-    "p": 0.979381443298969
-  },
-  {
-    "word": "whereby",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "EH",
-      "R",
-      "B",
-      "AY"
-    ],
-    "stress": 4,
-    "p": 0.97275204359673
-  },
-  {
-    "word": "wherein",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "EH",
-      "R",
-      "IH",
-      "N"
-    ],
-    "stress": 3,
-    "p": 0.949197860962567
-  },
-  {
-    "word": "whether",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "EH",
-      "DH",
-      "ER"
-    ],
-    "stress": 2,
-    "p": 0.995145631067961
-  },
-  {
-    "word": "whicker",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "IH",
-      "K",
-      "ER"
-    ],
-    "stress": 2,
-    "p": 0.64945652173913
-  },
-  {
-    "word": "whiles",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "AY",
-      "L",
-      "Z"
-    ],
-    "stress": 2,
-    "p": 0.704057279236277
-  },
-  {
     "word": "whilst",
     "variant": 0,
     "phonemes": [
@@ -55237,344 +53378,6 @@
     "p": 0.961995249406176
   },
   {
-    "word": "whimper",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "IH",
-      "M",
-      "P",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.982673267326732
-  },
-  {
-    "word": "whimsy",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "IH",
-      "M",
-      "S",
-      "IY"
-    ],
-    "stress": 1,
-    "p": 0.974160206718346
-  },
-  {
-    "word": "whiner",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "AY",
-      "N",
-      "ER"
-    ],
-    "stress": 2,
-    "p": 0.955613577023498
-  },
-  {
-    "word": "whiny",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "AY",
-      "N",
-      "IY"
-    ],
-    "stress": 2,
-    "p": 0.952261306532663
-  },
-  {
-    "word": "whipped",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "IH",
-      "P",
-      "T"
-    ],
-    "stress": 2,
-    "p": 0.99017199017199
-  },
-  {
-    "word": "whipping",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "IH",
-      "P",
-      "IH",
-      "NG"
-    ],
-    "stress": 1,
-    "p": 1
-  },
-  {
-    "word": "whipsaw",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "IH",
-      "P",
-      "S",
-      "AO"
-    ],
-    "stress": 1,
-    "p": 0.6075
-  },
-  {
-    "word": "whirled",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "ER",
-      "L",
-      "D"
-    ],
-    "stress": 2,
-    "p": 0.987405541561713
-  },
-  {
-    "word": "whirling",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "ER",
-      "L",
-      "IH",
-      "NG"
-    ],
-    "stress": 1,
-    "p": 0.992857142857143
-  },
-  {
-    "word": "whisk",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "IH",
-      "S",
-      "K"
-    ],
-    "stress": 2,
-    "p": 0.99498746867168
-  },
-  {
-    "word": "whisker",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "IH",
-      "S",
-      "K",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.989664082687338
-  },
-  {
-    "word": "whiskey",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "IH",
-      "S",
-      "K",
-      "IY"
-    ],
-    "stress": 1,
-    "p": 0.988610478359909
-  },
-  {
-    "word": "whisky",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "IH",
-      "S",
-      "K",
-      "IY"
-    ],
-    "stress": 1,
-    "p": 0.973262032085562
-  },
-  {
-    "word": "whisper",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "IH",
-      "S",
-      "P",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.994949494949495
-  },
-  {
-    "word": "whistle",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "IH",
-      "S",
-      "AH",
-      "L"
-    ],
-    "stress": 1,
-    "p": 0.994858611825193
-  },
-  {
-    "word": "whistler",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "IH",
-      "S",
-      "L",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.99273607748184
-  },
-  {
-    "word": "whitely",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "AY",
-      "T",
-      "L",
-      "IY"
-    ],
-    "stress": 1,
-    "p": 0.544736842105263
-  },
-  {
-    "word": "whiten",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "AY",
-      "T",
-      "AH",
-      "N"
-    ],
-    "stress": 1,
-    "p": 0.954106280193237
-  },
-  {
-    "word": "whitener",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "AY",
-      "T",
-      "N",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 0.974874371859297
-  },
-  {
-    "word": "whites",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "AY",
-      "T",
-      "S"
-    ],
-    "stress": 2,
-    "p": 0.98567335243553
-  },
-  {
-    "word": "whither",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "IH",
-      "DH",
-      "ER"
-    ],
-    "stress": 2,
-    "p": 0.923884514435696
-  },
-  {
-    "word": "whiting",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "AY",
-      "T",
-      "IH",
-      "NG"
-    ],
-    "stress": 1,
-    "p": 0.783375314861461
-  },
-  {
-    "word": "whitish",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "AY",
-      "T",
-      "IH",
-      "SH"
-    ],
-    "stress": 1,
-    "p": 0.83289124668435
-  },
-  {
-    "word": "whittle",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "IH",
-      "T",
-      "AH",
-      "L"
-    ],
-    "stress": 1,
-    "p": 0.980861244019139
-  },
-  {
-    "word": "whizzer",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "IH",
-      "Z",
-      "ER"
-    ],
-    "stress": 2,
-    "p": 0.745547073791349
-  },
-  {
-    "word": "whizzing",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "IH",
-      "Z",
-      "IH",
-      "NG"
-    ],
-    "stress": 1,
-    "p": 0.955294117647058
-  },
-  {
     "word": "whoever",
     "variant": 0,
     "phonemes": [
@@ -55586,84 +53389,6 @@
     ],
     "stress": 2,
     "p": 0.969094922737307
-  },
-  {
-    "word": "whoopee",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "UW",
-      "P",
-      "IY"
-    ],
-    "stress": 2,
-    "p": 0.916256157635468
-  },
-  {
-    "word": "whooping",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "UW",
-      "P",
-      "IH",
-      "NG"
-    ],
-    "stress": 1,
-    "p": 0.992700729927007
-  },
-  {
-    "word": "whoops",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "UW",
-      "P",
-      "S"
-    ],
-    "stress": 2,
-    "p": 0.992021276595745
-  },
-  {
-    "word": "whopper",
-    "variant": 1,
-    "phonemes": [
-      "HH",
-      "W",
-      "AA",
-      "P",
-      "ER"
-    ],
-    "stress": 2,
-    "p": 0.994974874371859
-  },
-  {
-    "word": "whopping",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "AA",
-      "P",
-      "IH",
-      "NG"
-    ],
-    "stress": 1,
-    "p": 0.986301369863013
-  },
-  {
-    "word": "whorl",
-    "variant": 2,
-    "phonemes": [
-      "HH",
-      "W",
-      "AO",
-      "R",
-      "L"
-    ],
-    "stress": 2,
-    "p": 0.673267326732673
   },
   {
     "word": "wiccan",
@@ -55690,19 +53415,6 @@
     ],
     "stress": 1,
     "p": 0.99492385786802
-  },
-  {
-    "word": "wicket",
-    "variant": 0,
-    "phonemes": [
-      "W",
-      "IH",
-      "K",
-      "AH",
-      "T"
-    ],
-    "stress": 1,
-    "p": 0.9064039408867
   },
   {
     "word": "widely",
@@ -56327,19 +54039,6 @@
     ],
     "stress": 1,
     "p": 0.997542997542997
-  },
-  {
-    "word": "wrestler",
-    "variant": 1,
-    "phonemes": [
-      "R",
-      "EH",
-      "S",
-      "L",
-      "ER"
-    ],
-    "stress": 1,
-    "p": 1
   },
   {
     "word": "wretched",
